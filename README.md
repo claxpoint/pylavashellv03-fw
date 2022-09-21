@@ -1,6 +1,17 @@
 # pylavashellv03-fw
 Shup Lineview2020 IDE Engine: Python LavaShell v0.3 Freamwork for Shup Lineview2020
 
+FOR RUNNING ON LINUX FAMILY ( debian , kali , ubuntu , parrot and ...) ITS TOOOOO EASY
+just go on https://github.com/claxpoint/pylavashellv03-fw :
+copy
+paste on your terminal ( frist need to type python and run python terminal )
+ENTER AND ENJOY ( frist read what is inside of blue texts i said and close the window for my IDE get runned and show you IDE on a window )
+(if you close the blue texts word i said and nothing happend about why is not running the IDE go to terminal if you do not close that if you close that you need to read again of steps on https://github.com/claxpoint/pylavashellv03-fw/blob/main/README.md And on Line 4 ) read down for next step about why IDE not running
+
+IF YOU DO NOT CLOSE THE TERMINAL CLICK ON Enter OF YOUR KEYBOARD for running the IDE window
+
+---if you want to help email me: claxpoint@gmail.com---
+
 shup: shup-tk:
 need-s: Python3 , Tkinter
 how-i: Win: pip install tk Other: pip3 install tk
