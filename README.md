@@ -13,18 +13,25 @@ Hello local :)
 This is the PyLavaShell Freamwork v0.3 runned on Shup Lineview2020 Engine
 local says: type-s
 -Whats New!?-
+
 1-fix the bugs
 2-free coding
 3-simple for conding
+
 local says: type-s
 -What is shup?-
+
 Shup is a writing engine and the analysis of human words is called a short code that is considered simple writing. It is also a programming language. Shup has many frameworks that have many functions! The manufacturer of Shup is Claxpoint. In this version that you are using, it is called Shup Lineview 2020 and your framework is called PyLavaShell, which is from the LavaShell family. Shup Lineview is not the only analysis engine family that is only an IDE or Code Editor! Rather, other engines that are programming languages and code analysis engines are included in the Shup engine family.
+
 local says: type-s
 -I Need a Help!-
+
 git: https://github.com/claxpoint
 email: claxpoint@gmail.com
+
 local says: type-s
 -What About Engine Information?-
+
 git: https://github.com/claxpoint/pylavashellv03-fw
 engine-used: shup-lineview-2020
 freamwork-used: pylavashell-v0.3
