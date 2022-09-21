@@ -8,6 +8,24 @@ how-i: clone dl py3 ( just need to download python3 for using )
 need: shup terminal ( YOU DO NOT NEED THIS YOUR SYS HAVE THIS)
 type-s: Win, Mac, Linux, Debian, Kali, Ubuntu, Parrot, Android, IOS, &type-s more...
 
+FOR RUNNING ON WINDOWS YOU NEED TO COPY CODE ON FORWIN FILE:
+https://github.com/claxpoint/pylavashellv03-fw/blob/main/forwin
+WHEN YOU COPY THE CODE DO THIS ON WINDOWS
+1- hold Ctrl and R on your keyboard for 1 secs (i mean second)
+2- when a new window has be opened type cmd on your keyboard
+3- when a black screen windows has be opened type python ( if you install python, if not go to https://www.python.org/downloads/windows and download python3 and install python with internet install step, you can search it for more information)
+4- now, you see some >>> and that means you opened python terminal!
+5- type my code (copy the code on https://github.com/claxpoint/pylavashellv03-fw/blob/main/forwin OR https://github.com/claxpoint/pylavashellv03-fw/blob/main/pylavashellfw-v03.py )
+6- when you see a white window with blue texts that means you opened on my file
+7- read the all what i said on texts
+8- close the program/window
+9- click on enter of your keyboard (if code editor not opened)
+10- Done! you install that! enjoy!!
+
+NEED HELP ABOUT THIS:
+my email: claxpoint@gmail.com
+
+
 local says:
 Hello local :)
 This is the PyLavaShell Freamwork v0.3 runned on Shup Lineview2020 Engine
