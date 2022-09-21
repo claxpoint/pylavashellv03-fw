@@ -2,6 +2,13 @@
 Shup Lineview2020 IDE Engine: Python LavaShell v0.3 Freamwork for Shup Lineview2020
 
 shup: shup-tk:
+need-s: Python3 , Tkinter
+how-i: Win: pip install tk Other: pip3 install tk
+how-i: clone dl py3 ( just need to download python3 for using )
+need: shup terminal ( YOU DO NOT NEED THIS YOUR SYS HAVE THIS)
+type-s: Win, Mac, Linux, Debian, Kali, Ubuntu, Parrot, Android, IOS, &type-s more...
+
+local says:
 Hello local :)
 This is the PyLavaShell Freamwork v0.3 runned on Shup Lineview2020 Engine
 local says: type-s
